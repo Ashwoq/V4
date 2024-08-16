@@ -1,4 +1,4 @@
 .vercel
 node_modules
 dist
-static/V4/V4.glb
+/static
